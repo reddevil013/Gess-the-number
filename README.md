@@ -1,6 +1,9 @@
 # [Gess-the-number](https://gessthenumber.netlify.app/)
 Number guessing game where you speak your guess into the microphone using the speech recognition API
+
+
 [![](https://github.com/reddevil013/Gess-the-number/blob/master/assets/Screenshot%202021-09-28%20211824.png?raw=true)](https://gessthenumber.netlify.app/)
+
 
 #### Project Specifications
 - Display UI directing user to speak guess
